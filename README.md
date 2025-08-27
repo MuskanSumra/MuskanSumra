@@ -1,4 +1,4 @@
-## Assalam u Alaikum, I’m Muskan — a Full Stack Web Developer & Computer and Software Engineering Graduate from NUST.
+## Assalam u Alaikum, I’m Muskan, a Full Stack Web Developer & Computer and Software Engineering Graduate from NUST.
 
 <!--
 **MuskanSumra/MuskanSumra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
