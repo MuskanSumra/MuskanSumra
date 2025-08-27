@@ -1,10 +1,10 @@
 # 👋 Assalam u Alaikum, I'm Muskan Sumra  
 
-🎓 Computer & Software Engineering | NUST (College of E&ME, Rawalpindi)  
+🎓 BS in Computer & Software Engineering | NUST (College of E&ME, Rawalpindi)  
 💻 Full Stack Web Developer | MERN Stack Enthusiast  
 ✨ Passionate about building scalable, user-friendly, and impactful digital solutions  
 📍 Location: Pakistan  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) | [Portfolio](https://your-portfolio-link.com)  
+ 
 
 ---
 
@@ -28,14 +28,13 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 ### 🎮 [Tic-Tac-Toe Game](https://github.com/MuskanSumra/Tic-Tac-Toe-GAME)  
 An interactive two-player game built with React.js, featuring modular components, state management, and win/draw logic.  
 
-### 🛍️ E-Commerce Website  
-A full-stack web app with product listings, authentication, and shopping cart system using MERN stack.  
 
-### 🧪 SkinGuard (Skin Disease Detection App)  
-A computer vision-based project for classifying and detecting skin diseases using machine learning and image segmentation.  
+### 🛍️ [MERN E-Commerce Website](https://github.com/MuskanSumra/MERN_ecommerce_website)  
+A full-stack e-commerce platform built with the MERN stack, including product listings, user authentication, and a shopping cart system.  
 
-### 🛡️ Autonomous Threat Detection in Luggage  
-Implemented image segmentation & classification models to detect potential threats (guns, knives) in X-ray luggage images.  
+### 🎨 [Cynthia Ugwu Portfolio](https://github.com/MuskanSumra/cynthia-ugwu-portfolio)  
+A modern, responsive portfolio website inspired by Cynthia Ugwu’s design, built with HTML, CSS, and animations.  
+
 
 ---
 
@@ -47,10 +46,5 @@ Implemented image segmentation & classification models to detect potential threa
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white&style=flat)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat)](mailto:your-email@gmail.com)  
 
----
 ⭐️ From [MuskanSumra](https://github.com/MuskanSumra)  
