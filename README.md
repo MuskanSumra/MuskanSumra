@@ -30,6 +30,10 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 A full-stack e-commerce platform built with the MERN stack, including product listings, user authentication, and a shopping cart system.  
 
 
+### 📋 [Project Management App](https://github.com/MuskanSumra/Project-Management-App)  
+A task and project management tool with user authentication, real-time updates, and an intuitive dashboard for team collaboration.  
+
+
 ### 🎮 [Tic-Tac-Toe Game](https://github.com/MuskanSumra/Tic-Tac-Toe-GAME)  
 An interactive two-player game built with React.js, featuring modular components, state management, and win/draw logic.  
 
