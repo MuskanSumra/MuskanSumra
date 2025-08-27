@@ -31,7 +31,7 @@ A full-stack e-commerce platform built with the MERN stack, including product li
 
 
 ### 📋 [Project Management App](https://github.com/MuskanSumra/Project-Management-App)  
-A task and project management tool with user authentication, real-time updates, and an intuitive dashboard for team collaboration.  
+A task and project management tool enabling users to create projects, add and clear tasks, and delete entire projects.  
 
 
 ### 🎮 [Tic-Tac-Toe Game](https://github.com/MuskanSumra/Tic-Tac-Toe-GAME)  
