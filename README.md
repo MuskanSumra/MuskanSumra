@@ -1,4 +1,4 @@
-# 👋 Assalam u Alaikum, I'm Muskan Sumra  
+# 👋 Assalam u Alaikum, I'm Muskan Younus  
 
 🎓 BS in Computer & Software Engineering | NUST (College of E&ME, Rawalpindi)  
 💻 Full Stack Web Developer | MERN Stack Enthusiast  
@@ -25,12 +25,14 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 
 ## 📂 Projects  
 
-### 🎮 [Tic-Tac-Toe Game](https://github.com/MuskanSumra/Tic-Tac-Toe-GAME)  
-An interactive two-player game built with React.js, featuring modular components, state management, and win/draw logic.  
-
 
 ### 🛍️ [MERN E-Commerce Website](https://github.com/MuskanSumra/MERN_ecommerce_website)  
 A full-stack e-commerce platform built with the MERN stack, including product listings, user authentication, and a shopping cart system.  
+
+
+### 🎮 [Tic-Tac-Toe Game](https://github.com/MuskanSumra/Tic-Tac-Toe-GAME)  
+An interactive two-player game built with React.js, featuring modular components, state management, and win/draw logic.  
+
 
 ### 🎨 [Cynthia Ugwu Portfolio](https://github.com/MuskanSumra/cynthia-ugwu-portfolio)  
 A modern, responsive portfolio website inspired by Cynthia Ugwu’s design, built with HTML, CSS, and animations.  
