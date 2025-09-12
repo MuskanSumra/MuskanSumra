@@ -30,6 +30,10 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 A full-stack e-commerce platform built with the MERN stack, including product listings, user authentication, and a shopping cart system.  
 
 
+### 🛍️ [Food-Order-App](https://github.com/MuskanSumra/Food-Order-App)  
+A dynamic food ordering application built with React, featuring a responsive UI, meal listings, cart functionality, and checkout functionality.  
+
+
 ### 📋 [Project Management App](https://github.com/MuskanSumra/Project-Management-App)  
 A task and project management tool enabling users to create projects, add and clear tasks, and delete entire projects.  
 
