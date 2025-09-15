@@ -53,7 +53,6 @@ A modern, responsive portfolio website inspired by Cynthia Ugwu’s design, buil
 ![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuskanSumra&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuskanSumra&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanSumra&layout=compact&theme=radical)  
-![LeetCode Streak](https://leetcode-stats.vercel.app/api/streak/MuskanYounus)
 
 ---
 
