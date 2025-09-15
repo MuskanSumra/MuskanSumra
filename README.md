@@ -19,7 +19,7 @@ I enjoy solving problems, learning new technologies, and working on projects tha
 **Languages:** JavaScript, TypeScript, Python, C++  
 **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, MUI  
 **Databases & Tools:** MongoDB, Firebase, Git, GitHub, VS Code  
-**Concepts:** Full Stack Development, REST APIs, Authentication, Machine Learning Basics  
+**Concepts:** Full Stack Development, REST APIs, Authentication, Machine Learning  
 
 ---
 
